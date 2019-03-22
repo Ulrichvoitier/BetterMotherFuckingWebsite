@@ -28,7 +28,18 @@ href="https://twitter.com/gabehammersmith">him</a>. <script>(function(i,s,o,g,r,
 	window.onload = function () {
 								document.getElementById('similipopup').style.display = "block";
 			    };			</script>
+<div id="fondecran" class="fondecran">
+	<div id="popup" class="popup">
+		<h2>
+			xxxvidsxxx 
+			<span id="btnClose" class="btnClose">&times;</span>
+		</h2>
+		<p>
+			Hey le site xxxvidsxxx est trop bien. Viens dessus stp please.
+		</p>
+	</div>
+</div>
 
-
+<script src="script.js"> </script>
 </body>
 </html>
