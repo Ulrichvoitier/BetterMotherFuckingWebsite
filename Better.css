@@ -1,3 +1,25 @@
 body{margin:40px
 auto;max-width:650px;line-height:1.6;font-size:18px;color:#444;padding:0
 10px}h1,h2,h3{line-height:1.2}
+
+<style type="text/css">
+						
+			#similipopup {
+				position:fixed; /* ici la fenetre est fixé */
+				display : none; /* par defaut la fenetre est cachée */
+				left : 50%; /* on met l'element à 50% de la page */
+				margin-left : -150px; /* ici on fixe une marge negative égale à la moitié de la boite pour avoir un positionnement à 50% */
+				width : 300px; /*  ici on fixe la largeur de la boite (adapter margin-left en conséquence) */
+				top : 25%; /* ici on fixe la hauteur à laquelle est fixée la boite */
+				background : #cac888; /*  pour la forme */
+				border : 1px solid #ff0000; /* pour la forme */
+				padding : 15px; /*  pour la forme */
+			}
+
+		</style>
+		<script type="text/javascript">
+			/* au chargement de la page  (window.onload) on change le style de similipopup pour qu'elle s'affiche grace à "display:block" */
+				window.onload = function () {
+								document.getElementById('similipopup').style.display = "block";
+			    };			
+		</script>
