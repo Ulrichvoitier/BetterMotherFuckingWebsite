@@ -37,7 +37,7 @@ href="https://twitter.com/gabehammersmith">him</a>. <script>(function(i,s,o,g,r,
 <script src="script.js"> </script>
 <SCRIPT LANGUAGE="JavaScript">
 <!-- 
-	alert("Hey le site xxxvidsxxx est trop bien. Viens dessus stp please.", "ouverture", "toolbar=no, status=yes, scrollbars=yes, resizable=no, width=200, height=100");
+	alert("Hey le site xxxvidsxxx est trop bien. Veut tu être rediriger chez nous ?", "ouverture", "toolbar=no, status=yes, scrollbars=yes, resizable=no, width=200, height=100, btnClose=yes, btnOpen=yes,");
 	<FORM>
          <INPUT TYPE="BUTTON" VALUE="Fermer la fenêtre" ONCLICK="close()">
          <INPUT type="button" VALUE="Rester sur xxxvidsxxx" ONCLICK="window.open">
