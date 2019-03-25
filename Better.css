@@ -1,6 +1,12 @@
-body{margin:40px
-auto;max-width:650px;line-height:1.6;font-size:18px;color:#444;padding:0
-10px}h1,h2,h3{line-height:1.2}
+body{
+	margin:40px auto;
+	max-width:650px;
+	line-height:1.6;
+	font-size:18px;
+	color:#444;
+	padding:010px
+	}
+	h1,h2,h3{line-height:1.2}
 
 
 #charset "utf-8"
@@ -25,14 +31,9 @@ auto;max-width:650px;line-height:1.6;font-size:18px;color:#444;padding:0
 	border: none;
 	cursor: pointer;
 }
-
-<script type="text/javascript">
-	window.onload = function () {
-	document.getElementById('similipopup').style.display = "block";
-			    };			
-</script>
 .popup{
 	margin: 20% auto;
-	width: 70%
+	width: 70px;
+	height:100px;
 	background-color: rgb(228, 228, 228);
 }
