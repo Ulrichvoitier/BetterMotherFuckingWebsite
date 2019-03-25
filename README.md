@@ -26,11 +26,10 @@ href="https://twitter.com/gabehammersmith">him</a>. <script>(function(i,s,o,g,r,
 <div id="fondecran" class="fondecran">
 	<div id="popup" class="popup">
 	<div class="button_container">
-		<button id="btnOpen" onclick="window.open(https://www.youtube.com/watch?v=dQw4w9WgXcQ)">ouvrir</button>
-		<button id="btnOpen"></button>	
+		<button id="btnOpen" onclick="window.open(https://www.youtube.com/watch?v=dQw4w9WgXcQ)">ouvrir lien</button>
+		<button id="btnClose"></button>	
 	</div>
-		<h2>
-			xxxvidsxxx 
+		<h2>xxxvidsxxx</h2>
 	</div>
 </div>
 
