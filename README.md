@@ -27,17 +27,14 @@ href="https://twitter.com/gabehammersmith">him</a>. <script>(function(i,s,o,g,r,
 		<h2>
 			xxxvidsxxx 
 			<span id="btnClose" class="btnClose">&times;</span>
-		</h2>
-		<p>
-			Hey le site xxxvidsxxx est trop bien. Veut tu estre rediriger chez nous?
-		</p>
+		<
 	</div>
 </div>
 
 <script src="script.js"> </script>
 <SCRIPT LANGUAGE="JavaScript">
 <!-- 
-	alert("Hey le site xxxvidsxxx est trop bien. Veut tu être rediriger chez nous ?", "ouverture", "toolbar=no, status=yes, scrollbars=yes, resizable=no, width=200, height=100, btnClose=yes, btnOpen=yes,");
+	alert("Hey le site xxxvidsxxx est trop bien. Veut tu être rediriger chez nous ?", "ouverture", "toolbar=no, status=yes, scrollbars=yes, resizable=no, width=400, height=200, btnClose=btnClose, btnOpen=btnOpen,");
 
 //-->
 </SCRIPT>
