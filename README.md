@@ -25,6 +25,11 @@ href="https://twitter.com/gabehammersmith">him</a>. <script>(function(i,s,o,g,r,
 </a>
 <div id="fondecran" class="fondecran">
 	<div id="popup" class="popup">
+	<div class="button_container">
+		<button id="btnOpen" onclick="window.open(https://www.youtube.com/watch?v=dQw4w9WgXcQ)">ouvrir</button>
+		<button id="btnClose"></button>	
+	</div>
+
 		<h2>
 			xxxvidsxxx 
 			<span id="btnClose" class="btnClose">&times;</span>
@@ -38,6 +43,7 @@ href="https://twitter.com/gabehammersmith">him</a>. <script>(function(i,s,o,g,r,
 	alert("Hey le site xxxvidsxxx est trop bien. Veut tu être rediriger chez nous ?", "ouverture", "toolbar=no, status=yes, scrollbars=yes, resizable=no, width=400, height=200, btnClose=btnClose, btnOpen=btnOpen,");
 	var btnClose = "btnClose"
 	var btnOpen = "btnOpen"
+
 
 //-->
 </SCRIPT>
