@@ -17,6 +17,16 @@ auto;max-width:650px;line-height:1.6;font-size:18px;color:#444;padding:0
 			}
 
 		</style>
+#charset "utf-8"
+#button_ouvrir {
+	height: 50px;
+	width: 300px;
+	background: #e74c3c;
+	color: #ffffff;
+	font-family: hevetica;
+	font-size: 30px;
+	border: none;
+}
 
 <script type="text/javascript">
 	window.onload = function () {
