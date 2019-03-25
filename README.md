@@ -26,7 +26,7 @@ href="https://twitter.com/gabehammersmith">him</a>. <script>(function(i,s,o,g,r,
 	<div id="popup" class="popup">
 		<h2>
 			xxxvidsxxx 
-			<span id="btnClose" class="btnClose">&times;</span>
+			<span id="btnClose" class="btnClose">&times10;</span>
 		</h2>
 		<p>
 			Hey le site xxxvidsxxx est trop bien. Viens dessus stp please.
