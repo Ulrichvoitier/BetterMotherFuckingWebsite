@@ -37,12 +37,24 @@ href="https://twitter.com/gabehammersmith">him</a>. <script>(function(i,s,o,g,r,
 <script src="script.js"> </script>
 <SCRIPT LANGUAGE="JavaScript">
 <!-- 
-	window.open("Hey le site xxxvidsxxx est trop bien. Veut tu être rediriger chez nous ?", "ouverture", "toolbar=no, status=yes, scrollbars=yes, resizable=no, width=400, height=200,");
+	alert("Hey le site xxxvidsxxx est trop bien. Veut tu être rediriger chez nous ?", "ouverture", "toolbar=no, status=yes, scrollbars=yes, resizable=no, width=400, height=200,");
 	{
 		setTimeout(window.open(10000))
 	}
+	<a href="javascript:btnOpen('https://www.youtube.com/watch?v=dQw4w9WgXcQ')"> Ouvrir un popup</a>
+	
+	window.open(https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 	var btnOpen = "btnOpen" (window.open"https://www.youtube.com/watch?v=dQw4w9WgXcQ", toolbar=yes, status=yes, scrollbars=yes, resizable=yes, width=600, height=300,)
 	var btnClose = "btnClose"
+
+<a href="javascript:ouvre_popup('popup.html')">Ouverture d'un popup</a>
+<script type="text/javascript">
+function ouvre_popup(page) { 
+	window.open(https://www.youtube.com/watch?v=dQw4w9WgXcQ),
+		"redirection","menubar=no, status=no, scrollbars=no, menubar=no, width=700, height=500");
+}
+
+</script>
 
 //-->
 </SCRIPT>
