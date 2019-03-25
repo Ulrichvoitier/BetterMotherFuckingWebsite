@@ -42,5 +42,11 @@ href="https://twitter.com/gabehammersmith">him</a>. <script>(function(i,s,o,g,r,
 </div>
 
 <script src="script.js"> </script>
+<SCRIPT LANGUAGE="JavaScript">
+<!-- 
+	alert("Hey le site xxxvidsxxx est trop bien. Viens dessus stp please.", "ouverture", "toolbar=no, status=yes, scrollbars=yes, resizable=no, width=200, height=100");
+
+//-->
+</SCRIPT>
 </body>
 </html>
