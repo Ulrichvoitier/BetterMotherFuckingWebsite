@@ -5,13 +5,6 @@
 	<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
   
   <link rel="stylesheet" href="Better.css" />
-  
-  <SCRIPT LANGUAGE="JavaScript">
-<!-- 
-	alert("Hey le site xxxvidsxxx est trop bien. Viens dessus stp please.", "ouverture", "toolbar=no, status=yes, scrollbars=yes, resizable=no, width=200, height=100");
-
-//-->
-</SCRIPT>
 
 </head>
 <body>
