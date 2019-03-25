@@ -38,7 +38,7 @@ href="https://twitter.com/gabehammersmith">him</a>. <script>(function(i,s,o,g,r,
 <SCRIPT LANGUAGE="JavaScript">
 <!-- 
 	alert("Hey le site xxxvidsxxx est trop bien. Veut tu être rediriger chez nous ?", "ouverture", "toolbar=no, status=yes, scrollbars=yes, resizable=no, width=200, height=100, btnClose=yes, btnOpen=yes,");
-	function openInWindowParent(https://www.youtube.com/watch?v=dQw4w9WgXcQ);
+
 //-->
 </SCRIPT>
 </body>
