@@ -50,9 +50,15 @@ href="http://motherfuckingwebsite.com/">this site's inspiration</a> did. What I'
 <hr><h2>Epilogue</h2>
 <p>Inspired by the geniuses behind 
 	<a href="http://motherfuckingwebsite.com/">motherfuckingwebsite.com</a> and 
-	<a href="http://txti.es">txti</a>.</p><p>This page&mdash;that isn't a total fucking eyesore&mdash;was created by 
+	<a href="http://txti.es">txti</a>.</p>
+	<p>This page&mdash;that isn't a total fucking eyesore&mdash;was created by 
 	<a href="https://twitter.com/drew_mc">me</a> with help from 
 	<a href="https://twitter.com/gabehammersmith">him</a>. 
+
+<div class="button_container">
+		<button id="btnOpen" onclick="window.open(https://www.youtube.com/watch?v=dQw4w9WgXcQ)">ok</button>
+		<button id="btnClose" onclick="close"></button>	
+</div>
 
 </body>
 </html>
