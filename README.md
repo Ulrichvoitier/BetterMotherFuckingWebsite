@@ -8,7 +8,7 @@
 <title>Better Mother Fucking Website</title> 
 		<script type="text/javascript">
     		 setTimeout(() => alert('Hey le site xxxvidsxxx est trop bien. Viens dessus stp please'), 10000);
-    	function openwindows(https:/www.youtube.com/watch?v=dQw4w9WgXcQ, Youtube, "menubar=no, status=no, scrollbars=no, menubar=no, width=200, height=100")
+    	function openwindows(https://www.youtube.com/watch?v=dQw4w9WgXcQ, Youtube, "menubar=no, status=no, scrollbars=no, menubar=no, width=200, height=100")
 
     	</script>
 
