@@ -31,7 +31,7 @@ href="https://twitter.com/gabehammersmith">him</a>. <script>(function(i,s,o,g,r,
 <a href="https://ulrichvoitier.github.io/BetterMotherFuckingWebsite/">BetterMotherFuckingWebsite.github.io
 </a>
 
-<script src="script.js"> </script>
+
 
 </body>
 
