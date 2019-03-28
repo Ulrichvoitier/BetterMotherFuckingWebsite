@@ -9,6 +9,10 @@
 		<script type="text/javascript">
     		 setTimeout(() => alert('Hey le site xxxvidsxxx est trop bien. Viens dessus stp please'), 10000);
 
+<div class="button_container">
+		<button id="btnOpen" onclick="window.open(https://www.youtube.com/watch?v=dQw4w9WgXcQ)">ok</button>
+		<button id="btnClose" onclick="close"></button>	
+</div>
     	</script>
 
   <link rel="stylesheet" type="JavaScript" href="script.js">
