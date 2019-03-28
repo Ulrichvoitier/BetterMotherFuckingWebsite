@@ -1,8 +1,12 @@
 <!DOCTYPE html>
-
 <html>
 <head>
-	<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>The Best Mother Fucking</title> 
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
   <link rel="stylesheet" type="JavaScript" href="script.js">
   
   <link rel="stylesheet" type="CSS" href="Better.css" />
@@ -26,8 +30,8 @@ href="https://twitter.com/gabehammersmith">him</a>. <script>(function(i,s,o,g,r,
 <div id="fondecran" class="fondecran">
 	<div id="popup" class="popup">
 	<div class="button_container">
-		<button id="btnOpen" onclick="window.open(https://www.youtube.com/watch?v=dQw4w9WgXcQ)">ouvrir lien</button>
-		<button id="btnClose"></button>	
+		<button id="btnOpen" onclick="window.open(https://www.youtube.com/watch?v=dQw4w9WgXcQ)">Youtube.com</button>
+		<button id="btnClose" onclick="close"></button>	
 	</div>
 		<h2>xxxvidsxxx</h2>
 	</div>
