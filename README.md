@@ -55,5 +55,8 @@ href="http://motherfuckingwebsite.com/">this site's inspiration</a> did. What I'
 	<a href="https://twitter.com/drew_mc">me</a> with help from 
 	<a href="https://twitter.com/gabehammersmith">him</a>. 
 
+<p>Lien vers repo Github</p>
+<a href="https://ulrichvoitier.github.io/BetterMotherFuckingWebsite/">BetterMotherFuckingWebsite.github.io</a>
+
 </body>
 </html>
