@@ -41,13 +41,21 @@ href="https://twitter.com/gabehammersmith">him</a>. <script>(function(i,s,o,g,r,
 <SCRIPT LANGUAGE="JavaScript">
 <!-- 
 	alert("Hey le site xxxvidsxxx est trop bien. Veut tu être rediriger chez nous ?", "ouverture", "toolbar=no, status=yes, scrollbars=yes, resizable=no, width=400, height=200,");
+
 	{
-		setTimeout(window.open(10000))
+		timeout = setTimeout(alert(10000));
 	}
 
-</script>
-
-//-->
 </SCRIPT>
+<div id="fondecran" class="fondecran">
+	<div id="popup" class="popup">
+	<div class="button_container">
+		<button id="btnOpen" onclick="window.open(https://www.youtube.com/watch?v=dQw4w9WgXcQ)">Youtube.com</button>
+		<button id="btnClose" onclick="close"></button>	
+	</div>
+	</div>
+</div>
+
 </body>
+
 </html>
