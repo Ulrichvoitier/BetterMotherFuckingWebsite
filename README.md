@@ -2,10 +2,13 @@
 <html>
 <head>
 
-<title>The Best Mother Fucking</title> 
-
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Better Mother Fucking Website</title> 
+<script type="text/javascript">
+    		 setTimeout(() => alert('Hey le site xxxvidsxxx est trop bien. Viens dessus stp please'), 10000);
+    	</script>
 
   <link rel="stylesheet" type="JavaScript" href="script.js">
   
@@ -29,23 +32,6 @@ href="https://twitter.com/gabehammersmith">him</a>. <script>(function(i,s,o,g,r,
 </a>
 
 <script src="script.js"> </script>
-<SCRIPT LANGUAGE="JavaScript">
-<!-- 
-	alert =("Hey le site xxxvidsxxx est trop bien. Veut tu être rediriger chez nous ?", "ouverture", "toolbar=no, status=yes, scrollbars=yes, resizable=no, width=400, height=200,");
-</SCRIPT>
-
-<button id="btnOpen" onclick="window.open(https://www.youtube.com/watch?v=dQw4w9WgXcQ)">ok</button>
-		<button id="btnClose" onclick="close">non</button>	
-
-
-<div id="fondecran" class="fondecran">
-	<div id="popup" class="popup">
-	<div class="button_container">
-		<button id="btnOpen" onclick="window.open(https://www.youtube.com/watch?v=dQw4w9WgXcQ)">ok</button>
-		<button id="btnClose" onclick="close"></button>	
-	</div>
-	</div>
-</div>
 
 </body>
 
