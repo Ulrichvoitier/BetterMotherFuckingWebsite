@@ -27,15 +27,6 @@ href="https://twitter.com/gabehammersmith">him</a>. <script>(function(i,s,o,g,r,
 
 <a href="https://ulrichvoitier.github.io/BetterMotherFuckingWebsite/">BetterMotherFuckingWebsite.github.io
 </a>
-<div id="fondecran" class="fondecran">
-	<div id="popup" class="popup">
-	<div class="button_container">
-		<button id="btnOpen" onclick="window.open(https://www.youtube.com/watch?v=dQw4w9WgXcQ)">Youtube.com</button>
-		<button id="btnClose" onclick="close"></button>	
-	</div>
-		<h2>xxxvidsxxx</h2>
-	</div>
-</div>
 
 <script src="script.js"> </script>
 <SCRIPT LANGUAGE="JavaScript">
