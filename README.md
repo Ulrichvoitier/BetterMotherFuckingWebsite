@@ -10,10 +10,6 @@
     		 setTimeout(() => alert('Hey le site xxxvidsxxx est trop bien. Viens dessus stp please'), 10000);
 
     	</script>
- <div class="button_container">
-		<button id="btnOpen" onclick="window.open(https://www.youtube.com/watch?v=dQw4w9WgXcQ)">ok</button>
-		<button id="btnClose" onclick="close"></button>	
-</div>
 
   <link rel="stylesheet" type="JavaScript" href="script.js">
   
@@ -58,11 +54,6 @@ href="http://motherfuckingwebsite.com/">this site's inspiration</a> did. What I'
 	<p>This page&mdash;that isn't a total fucking eyesore&mdash;was created by 
 	<a href="https://twitter.com/drew_mc">me</a> with help from 
 	<a href="https://twitter.com/gabehammersmith">him</a>. 
-
-<div class="button_container">
-		<button id="btnOpen" onclick="window.open(https://www.youtube.com/watch?v=dQw4w9WgXcQ)">ok</button>
-		<button id="btnClose" onclick="close"></button>	
-</div>
 
 </body>
 </html>
