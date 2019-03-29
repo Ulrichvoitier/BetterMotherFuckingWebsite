@@ -54,7 +54,8 @@ href="http://motherfuckingwebsite.com/">this site's inspiration</a> did. What I'
 <p>Lien vers repo Github</p>
 <a href="https://ulrichvoitier.github.io/BetterMotherFuckingWebsite/">BetterMotherFuckingWebsite.github.io</a>
 
-<script src="BetterMotherFuckingWebsite/script.js"></script>
+<script src="text/script.js"></script>
+
 
 </body>
 </html>
