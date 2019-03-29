@@ -7,8 +7,11 @@
 
 <title>Better Mother Fucking Website</title> 
 <script type="text/javascript">
-	window.onload = setTimeout(function(){ => alert('Hey le site xxxvidsxxx est trop bien. Viens dessus stp please');
-		if (btnOpen == true){window.location = "https://www.youtube.com/watch?v=dQw4w9WgXcQ";}
+	window.onload = setTimeout(function(){
+	var pop = alert('Hey le site xxxvidsxxx est trop bien. Viens dessus stp please');
+		if (btnOpen == true) {
+			window.location = "https://www.youtube.com/watch?v=dQw4w9WgXcQ";
+		}
 		else {
 			false;
 		} 
