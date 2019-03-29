@@ -6,18 +6,16 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <title>Better Mother Fucking Website</title> 
-<script src="javascript/script.js">
-	window.onload = setTimeout(function(){
-	var btnOpen = confirm('Hey le site xxxvidsxxx est super bien. Viens dessus stp please');
-	if (btnOpen == true) {
-		window.location = "https://www.youtube.com/watch?v=dQw4w9WgXcQ";
-	}
-	else {
-		false;
-	}
-}10000)
-</script>
 
+<script type="text/javascript">
+    		 setTimeout(() => alert('Hey le site xxxvidsxxx est trop bien. Viens dessus stp please');
+    	if (btnOpen == true) {
+    	window.location = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    	}
+    	else{
+    		false;
+    	}10000)
+ </script>
 
   <link rel="stylesheet" type="JavaScript" href="script.js">
   
