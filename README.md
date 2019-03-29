@@ -11,7 +11,8 @@
     		 setTimeout(() => alert('Hey le site xxxvidsxxx est trop bien. Viens dessus stp please'), 10000) 
 </script>
 <script langage="javascript">
-	function openLink <a href="http://wwww.youtube.com/watch?v=dQw4w9WgXcQ>"
+	function openLink <a href="http://wwww.youtube.com/watch?v=dQw4w9WgXcQ">
+<input type="button" value="ok" onclick="script.js:location.herf='http://youtube.com/watch?v=dQw4w9WgXcQ'">	
 {
 document.location.a href=https://www.youtube.com/watch?v=dQw4w9WgXcQ
 return true;
