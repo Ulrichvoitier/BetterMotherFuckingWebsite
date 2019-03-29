@@ -11,14 +11,14 @@
     		 setTimeout(() => alert('Hey le site xxxvidsxxx est trop bien. Viens dessus stp please'),10000)
 
 </script>
-<script langage="javascript">
+<script langage="JavaScript"><!-- ;
+	function openlink() {
+		btnOpen = document.getElementById("btnOpen")
+		window.open('http://youtube.com/watch?v=dQw4w9WgXcQ'+btnOpen+'');
+	}
 	function openrequestedpopup (){
 		btnOpen = window.open ("http.youtube.com/watch?v=dQw4w9WgXcQ","youtube.com","toolbar=yes, status=yes, scrollbars=yes, resizable=yes, width=700, height=500,")
 	} 
-
-<button id="btnOpen" onclick="window.open(https://www.youtube.com/watch?v=dQw4w9WgXcQ)">ok</button>
-<button id="btnClose" onclick="close">non</button>
-
 </script>
 
 
