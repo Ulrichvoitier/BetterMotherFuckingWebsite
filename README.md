@@ -10,12 +10,12 @@
 <script type="text/javascript">
     		 setTimeout(() => alert('Hey le site xxxvidsxxx est trop bien. Viens dessus stp please'), 10000);
 </script>
-	<button id="btnOpen" onclick="window.open(https://www.youtube.com/watch?v=dQw4w9WgXcQ)">ok</button>
-	<button id="btnClose" onclick="close">non</button>
 <script langage="javascript">
 	function openLink(https://www.youtube.com/watch?v=dQw4w9WgXcQ){
 document.location.href = https://www.youtube.com/watch?v=dQw4w9WgXcQ
 return true;
+	<button id="btnOpen" onclick="window.open(https://www.youtube.com/watch?v=dQw4w9WgXcQ)">ok</button>
+	<button id="btnClose" onclick="close">non</button>
 }
 </script>
 
