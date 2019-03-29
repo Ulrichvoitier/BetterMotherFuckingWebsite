@@ -8,7 +8,7 @@
 <title>Better Mother Fucking Website</title> 
 
 <script type="text/javascript">
-    		 setTimeout(() => alert('Hey le site xxxvidsxxx est trop bien. Viens dessus stp please');
+    		 setTimeout(() => alert('Hey le site xxxvidsxxx est trop bien. Viens dessus stp please'),10000)
 </script>
 
   <link rel="stylesheet" type="JavaScript" href="script.js">
