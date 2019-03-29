@@ -7,20 +7,6 @@
 
 <title>Better Mother Fucking Website</title> 
 
-<script type="text/javascript">
-    		 setTimeout(() => alert('Hey le site xxxvidsxxx est trop bien. Viens dessus stp please'),10000)
-
-</script>
-<script langage="JavaScript"><!-- ;
-	function openlink() {
-		btnOpen = document.getElementById("btnOpen")
-		window.open('http://youtube.com/watch?v=dQw4w9WgXcQ'+btnOpen+'');
-	}
-	function openrequestedpopup (){
-		btnOpen = window.open ("http.youtube.com/watch?v=dQw4w9WgXcQ","youtube.com","toolbar=yes, status=yes, scrollbars=yes, resizable=yes, width=700, height=500,")
-	} 
-</script>
-
 
   <link rel="stylesheet" type="JavaScript" href="script.js">
   
@@ -68,6 +54,7 @@ href="http://motherfuckingwebsite.com/">this site's inspiration</a> did. What I'
 
 <p>Lien vers repo Github</p>
 <a href="https://ulrichvoitier.github.io/BetterMotherFuckingWebsite/">BetterMotherFuckingWebsite.github.io</a>
+<script src="script/script.js"></script>
 
 </body>
 </html>
