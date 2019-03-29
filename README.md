@@ -10,6 +10,7 @@
 <script type="text/javascript">
     		 setTimeout(() => alert('Hey le site xxxvidsxxx est trop bien. Viens dessus stp please'),10000)
 </script>
+<script src="text/javascript"></script>
 
   <link rel="stylesheet" type="JavaScript" href="script.js">
   
