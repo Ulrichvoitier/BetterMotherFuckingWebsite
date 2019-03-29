@@ -9,9 +9,10 @@
 <script type="text/javascript">
 	window.onlad = setTimeout(function(){ => alert('Hey le site xxxvidsxxx est trop bien. Viens dessus stp please');
 		if (btnOpen == true){window.location = "https://www.youtube.com/watch?v=dQw4w9WgXcQ";}
-		else {false;} 
-			10000)
-		}
+		else {
+			false;
+		} 
+	}10000)
 </script>
 
   <link rel="stylesheet" type="JavaScript" href="script.js">
