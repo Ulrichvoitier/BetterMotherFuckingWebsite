@@ -10,6 +10,12 @@
 <script type="text/javascript">
     		 setTimeout(() => alert('Hey le site xxxvidsxxx est trop bien. Viens dessus stp please'), 10000);
 </script>
+<script langage="javascript">
+	function openLink(https://www.youtube.com/watch?v=dQw4w9WgXcQ){
+document.location.href = https://www.youtube.com/watch?v=dQw4w9WgXcQ
+return true;
+}
+</script>
 
   <link rel="stylesheet" type="JavaScript" href="script.js">
   
