@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <title>Better Mother Fucking Website</title> 
-<script type="text/javascript">
+<script src="javascript/script.js">
 	window.onload = setTimeout(function(){
 	var btnOpen = confirm('Hey le site xxxvidsxxx est super bien. Viens dessus stp please');
 	if (btnOpen == true) {
