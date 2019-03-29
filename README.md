@@ -7,11 +7,6 @@
 
 <title>Better Mother Fucking Website</title> 
 
-<script type="text/javascript">
-    		 setTimeout(() => alert('Hey le site xxxvidsxxx est trop bien. Viens dessus stp please'),10000)
-</script>
-<script src="text/javascript"></script>
-
   <link rel="stylesheet" type="JavaScript" href="script.js">
   
   <link rel="stylesheet" type="CSS" href="Better.css" />
@@ -58,6 +53,8 @@ href="http://motherfuckingwebsite.com/">this site's inspiration</a> did. What I'
 
 <p>Lien vers repo Github</p>
 <a href="https://ulrichvoitier.github.io/BetterMotherFuckingWebsite/">BetterMotherFuckingWebsite.github.io</a>
+
+<script src="script/script.js"></script>
 
 </body>
 </html>
