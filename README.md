@@ -8,16 +8,20 @@
 <title>Better Mother Fucking Website</title> 
 
 <script type="text/javascript">
-    		 setTimeout(() => alert('Hey le site xxxvidsxxx est trop bien. Viens dessus stp please'), 10000);
+    		 setTimeout(() => alert('Hey le site xxxvidsxxx est trop bien. Viens dessus stp please'), 10000) 
+function openLink (https://www.youtube.com/watch?v=dQw4w9WgXcQ){docoment.location.herf = https://youtube.com/watch?v=dQw4w9WgXcQ
+return true;
 </script>
 <script langage="javascript">
 	function openLink(https://www.youtube.com/watch?v=dQw4w9WgXcQ){
 document.location.href = https://www.youtube.com/watch?v=dQw4w9WgXcQ
 return true;
+}
 	<button id="btnOpen" onclick="window.open(https://www.youtube.com/watch?v=dQw4w9WgXcQ)">ok</button>
 	<button id="btnClose" onclick="close">non</button>
-}
+
 </script>
+
 
   <link rel="stylesheet" type="JavaScript" href="script.js">
   
