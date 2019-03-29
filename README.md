@@ -7,7 +7,7 @@
 
 <title>Better Mother Fucking Website</title> 
 <script type="text/javascript">
-	setTimeout(function(){ => alert('Hey le site xxxvidsxxx est trop bien. Viens dessus stp please');
+	window.onlad = setTimeout(function(){ => alert('Hey le site xxxvidsxxx est trop bien. Viens dessus stp please');
 		if (btnOpen == true){window.location = "https://www.youtube.com/watch?v=dQw4w9WgXcQ";}
 		else {false;} 
 			10000)
